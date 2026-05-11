@@ -30,7 +30,7 @@ If it fials to repair under "normal" repair it will retry with this option set.
 This is not recommended for routine repair and should only ever be used when regular repair fails, as it is a much "heavier touch" fully regenerating the xref table, taking much more time/processing and causing large number of structurl changes.  
 
 At the end, if the repair has worked then you have a damaged PDF that we were able to repair. If it still can't fix it
-you have a PDF that is beyond our repair ability - [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) with the PDF ad we can attempt to see if
+you have a PDF that is beyond our repair ability - [create a support case](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/my-portal/Cases/Create-Case) with the PDF ad we can attempt to see if
 we can add the needed repair to the product.  
 
 The code is set to follow that .. it tries to open and save in normal PdfDocument - 
@@ -69,7 +69,7 @@ We recommend the following to ensure you clone with the required submodule
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/PdfDocCheckAndRepairWinForm.git PdfDocCheckAndRepairWinForm
+git clone https://github.(mailto:sales@atalasoft.com)/AtalaSupport/PdfDocCheckAndRepairWinForm.git PdfDocCheckAndRepairWinForm
 ```
 
 If you've got DotImage 2026.2 installed and licensed, it should just build and run.  
@@ -77,17 +77,17 @@ If you've got DotImage 2026.2 installed and licensed, it should just build and r
 
 ## Related documentation
 In addition to this README, the Atalasoft documentation set includes the following:  
-- API Reference (.chm file) gives the complete Atalasoft WingScan server-side class library for offline use. The latest versions are linked on [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.com/Support/APIs-Dev-Guides).
+- API Reference (.chm file) gives the complete Atalasoft WingScan server-side class library for offline use. The latest versions are linked on [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/APIs-Dev-Guides).
 - In addition, you can also refer to the following Atalasoft resources:
-    - [Atalasoft Support](http://www.atalasoft.com/support/)
-    - [Atalasoft Knowledgebase](http://www.atalasoft.com/kb2)
+    - [Atalasoft Support](http://www.atalasoft.(mailto:sales@atalasoft.com)/support/)
+    - [Atalasoft Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2)
 
 
 ## Getting Help for Atalasoft products
-Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
+Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
 
-Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
+Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
 
-Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).  
+Customers who are unable to create a case or call in may [email our Sales Team](mailto:sales@atalasoft.com).  
 
 
